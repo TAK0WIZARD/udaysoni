@@ -1,8 +1,5 @@
 # Hi there 👋, I'm Uday! 
 
-## 🚀 About Me
-# 👋 Hi, I'm Uday Soni
-
 I'm a passionate **Frontend Developer** and **UI/UX Designer** from Uttar Pradesh, India 🇮🇳.  
 Currently pursuing my **BCA from GLA University**, I've already completed 20+ freelance projects — helping real-world clients turn their ideas into clean, responsive, and functional websites.
 
