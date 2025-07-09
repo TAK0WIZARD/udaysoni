@@ -7,7 +7,6 @@ Currently pursuing my **BCA from GLA University**, I've already completed 20+ fr
 - 💡 Design intuitive UI/UX layouts using **Figma**
 - 🔧 Build web apps using **HTML, CSS, JavaScript, React.js**
 - 🔗 Connect frontends to backends using **Node.js + MongoDB**
-- 🌐 Deploy live projects on **Netlify, Vercel, and GitHub Pages**
 
 ---
 
